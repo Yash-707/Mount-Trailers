@@ -8,7 +8,7 @@
 
 .package-heading {
   background-color: #151515;
-  background-image: url("https://images.pexels.com/photos/346286/panorama-miami-florida-water-346286.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-image: url('3.jpg');
   
     padding: 100px;  
 }
@@ -45,7 +45,7 @@
     background-color: #fdf5f5;
     border-radius: 15px;
     box-shadow: 10px 10px 15px #3b3737;
-    background: linear-gradient(#445056, #47addd 45%, #fff 45%, #fff 100%);
+    background-image: url('https://images.pexels.com/photos/3129641/pexels-photo-3129641.jpeg?auto=compress&cs=tinysrgb&w=600');
     padding: 25px;
     padding-right: 50px;
     display: flex;
@@ -60,7 +60,7 @@
     background-color: #fdf5f5;
     border-radius: 15px;
     box-shadow: 10px 10px 15px #3b3737;
-    background-image: url('https://images.pexels.com/photos/255381/pexels-photo-255381.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-image: url('https://images.pexels.com/photos/139396/lavender-flowers-blue-flowers-purple-139396.jpeg?auto=compress&cs=tinysrgb&w=600');
     padding: 25px;
     padding-right: 50px;
     display: flex;
